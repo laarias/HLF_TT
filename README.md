@@ -2,9 +2,9 @@ Trabajo de Título HLF
 
 # Modelo de captura de pacientes oncológicos :hospital:  
 
-Este modelo de captura de pacientes oncológicos se realizó en marco de una colaboración entre la UC y HLF para el proyecto de __Optimización de la gestión de listas de espera oncológicas mediante el análisis de datos y mejoras en los procesos de atención__. Es decir, es un trabajo en colaboración interdisiplinaria con el equipo de la UC compuesto por Rodrigo Carrasco, Jocelyn Dunstan, José Peña y Luis Arias. Por parte del Hospital de la Florida están presentes Luis Ávila, Verónica Morales y el equipo de Gestoras Oncológicas del Hospital de la Florida, compuesto por Marcela Maira, Marie Anne Pérez, Daisy Tello y Tannia [inserta apellido].
+Este modelo de captura de pacientes oncológicos se realizó en marco de una colaboración entre la UC y HLF para el proyecto de __Optimización de la gestión de listas de espera oncológicas mediante el análisis de datos y mejoras en los procesos de atención__. Es decir, es un trabajo en colaboración interdisiplinaria con el equipo de la UC compuesto por Rodrigo Carrasco, Jocelyn Dunstan, José Peña y Luis Arias. Por parte del Hospital de la Florida están presentes Luis Ávila, Verónica Morales y el equipo de Gestoras Oncológicas del Hospital de la Florida, compuesto por Marcela Maira, Marie Anne Pérez, Daisy Tello y Tannia Guerrero.
 
-Para esto se entrega el siguiente repositorio, que contiene distintos jupyter notebooks que se explicarán más adelante. [Hacer resumen de los puntos a tratar]
+Para esto se entrega el siguiente repositorio, que contiene distintos jupyter notebooks que se explicarán más adelante.
 
 
 ## Consideraciones generales :octocat:

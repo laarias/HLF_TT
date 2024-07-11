@@ -30,7 +30,7 @@ Este es un modelo de captura de pacientes oncológicos. Para esto se requieren d
 Existen distintos módulos de ejecución, se van a mencionar en orden ya que unos dependen del anterior.
 
 * El primero módulo de ejecución es ```todos_los_notebooks.ipynb```, este contiene distintos _jupyter notebooks_ para algunos problemas oncológicos. Se presenta en el siguiente diagrama de flujo de datos.
-  ![](https://github.com/laarias/HLF_TT/blob/main/imagenes/diagrama%20notebooks.jpg)
+  ![](https://github.com/laarias/HLF_TT/blob/main/imagenes/v2_diagrama_notebooks.jpg)
   En este flujo se puede observar los notebooks de los problemas oncológicos y los dataframe que entrega.
 * El segundo módulo de ejecución es ```V2_consolidado_todos_cancer.ipynb```, este puede correr independiente a primero.
   ![](https://github.com/laarias/HLF_TT/blob/main/imagenes/consolidar%20bases%20gestoras.jpg)
